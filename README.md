@@ -1,1 +1,1 @@
-# Chicken-fry
+Chicken fry
